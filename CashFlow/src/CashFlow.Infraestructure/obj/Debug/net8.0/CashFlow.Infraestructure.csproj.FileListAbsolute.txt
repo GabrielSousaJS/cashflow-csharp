@@ -1,0 +1,15 @@
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\CashFlow.Infraestructure.deps.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\CashFlow.Infraestructure.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\CashFlow.Infraestructure.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.AssemblyInfo.cs
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.DFFAD19C.Up2Date
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\refint\CashFlow.Infraestructure.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\ref\CashFlow.Infraestructure.dll

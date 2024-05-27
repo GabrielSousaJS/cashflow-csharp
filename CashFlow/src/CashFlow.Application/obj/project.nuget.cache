@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzX3AGV9iM2fBEwCUcL9PUjJ5lWbIMQqh5ccrWMxcKUI376zwbJ6jGR1xA5wFenHi8hm75lUnhxGnvg6OBsS9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

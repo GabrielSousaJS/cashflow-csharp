@@ -1,0 +1,15 @@
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\bin\Debug\net8.0\CommonTestsUtilities.deps.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\bin\Debug\net8.0\CommonTestsUtilities.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\bin\Debug\net8.0\CommonTestsUtilities.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.csproj.AssemblyReference.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.AssemblyInfoInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.AssemblyInfo.cs
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTe.69EF6C4C.Up2Date
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\refint\CommonTestsUtilities.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\CommonTestsUtilities.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\tests\CommonTestsUtilities\obj\Debug\net8.0\ref\CommonTestsUtilities.dll

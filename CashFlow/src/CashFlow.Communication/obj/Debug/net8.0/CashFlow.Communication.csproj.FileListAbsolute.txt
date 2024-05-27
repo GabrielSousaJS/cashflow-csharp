@@ -1,0 +1,11 @@
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll

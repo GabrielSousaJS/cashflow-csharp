@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CashFlow.Exception/1.0.0": {
+        "runtime": {
+          "CashFlow.Exception.dll": {}
+        },
+        "resources": {
+          "fr-FR/CashFlow.Exception.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "pt-BR/CashFlow.Exception.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CashFlow.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
