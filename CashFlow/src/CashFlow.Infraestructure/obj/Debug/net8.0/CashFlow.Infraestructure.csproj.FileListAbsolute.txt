@@ -13,3 +13,6 @@ C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\refint\CashFlow.Infraestructure.dll
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.pdb
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\ref\CashFlow.Infraestructure.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.sourcelink.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Infraestructure\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll

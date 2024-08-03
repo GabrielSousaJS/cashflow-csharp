@@ -39,7 +39,7 @@ public class RegisterExpenseValidatorTests
         // Assert
         result.IsValid.Should().BeFalse();
 
-        result.Errors.Should().ContainSingle().And.Contain(error => error.Equals(ResourceErrorMessages.TITLE_REQUIRED));
+        result.Errors.Should().ContainSingle().And.Contain(error => error.ErrorMessage.Equals(ResourceErrorMessages.TITLE_REQUIRED));
     }
 
     [Fact]
@@ -56,7 +56,7 @@ public class RegisterExpenseValidatorTests
         // Assert
         result.IsValid.Should().BeFalse();
 
-        result.Errors.Should().ContainSingle().And.Contain(error => error.Equals(ResourceErrorMessages.EXPENSES_CANNOT_FOR_THE_FUTURE));
+        result.Errors.Should().ContainSingle().And.Contain(error => error.ErrorMessage.Equals(ResourceErrorMessages.EXPENSES_CANNOT_FOR_THE_FUTURE));
     }
 
     [Fact]
@@ -73,7 +73,7 @@ public class RegisterExpenseValidatorTests
         // Assert
         result.IsValid.Should().BeFalse();
 
-        result.Errors.Should().ContainSingle().And.Contain(error => error.Equals(ResourceErrorMessages.PAYMENT_TYPE_INVALID));
+        result.Errors.Should().ContainSingle().And.Contain(error => error.ErrorMessage.Equals(ResourceErrorMessages.PAYMENT_TYPE_INVALID));
     }
 
     [Theory]
@@ -94,6 +94,6 @@ public class RegisterExpenseValidatorTests
         // Assert
         result.IsValid.Should().BeFalse();
 
-        result.Errors.Should().ContainSingle().And.Contain(error => error.Equals(ResourceErrorMessages.AMOUNT_MUST_BE_GREATER_THAN_ZERO));
+        result.Errors.Should().ContainSingle().And.Contain(error => error.ErrorMessage.Equals(ResourceErrorMessages.AMOUNT_MUST_BE_GREATER_THAN_ZERO));
     }
 }

@@ -9,3 +9,12 @@ C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.Reports.ResourceReportGenerationMessages.resources
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.Reports.ResourceReportGenerationMessages.fr.resources
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.Reports.ResourceReportGenerationMessages.pt-BR.resources
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.GenerateResource.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-04\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll

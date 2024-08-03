@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81126434-5F38-45A0-9422-BABCA8C55614}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81126434-5F38-45A0-9422-BABCA8C55614}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D05D74CE-F916-473B-8810-5B2F8214681F}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.application\\usecases\\expenses\\report\\pdf\\generateexpensesreportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05D74CE-F916-473B-8810-5B2F8214681F}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\report\\pdf\\generateexpensesreportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{846435DD-8472-4EEF-A749-FF385D89ADE3}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{846435DD-8472-4EEF-A749-FF385D89ADE3}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{D05D74CE-F916-473B-8810-5B2F8214681F}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.application\\usecases\\expenses\\report\\excel\\generateexpensesreportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05D74CE-F916-473B-8810-5B2F8214681F}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\report\\excel\\generateexpensesreportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{379BE092-C7B2-4EC2-A224-9E64DB089D7D}|src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.infraestructure\\cashflow.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{379BE092-C7B2-4EC2-A224-9E64DB089D7D}|src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj|solutionrelative:src\\cashflow.infraestructure\\cashflow.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F37A679B-2519-4C99-8E5C-71C20865785F}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.domain\\extensions\\paymenttypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37A679B-2519-4C99-8E5C-71C20865785F}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\extensions\\paymenttypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21DDDC02-DEEA-405C-A9C5-59328437EA9A}|tests\\CommonTestsUtilities\\CommonTestsUtilities.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\tests\\commontestsutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21DDDC02-DEEA-405C-A9C5-59328437EA9A}|tests\\CommonTestsUtilities\\CommonTestsUtilities.csproj|solutionrelative:tests\\commontestsutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37A679B-2519-4C99-8E5C-71C20865785F}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-04\\cashflow\\src\\cashflow.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37A679B-2519-4C99-8E5C-71C20865785F}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 318,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,52 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ResourceErrorMessages.resx",
-              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-27T01:24:12.114Z",
+              "Title": "GenerateExpensesReportExcelUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Excel\\GenerateExpensesReportExcelUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Excel\\GenerateExpensesReportExcelUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Excel\\GenerateExpensesReportExcelUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Excel\\GenerateExpensesReportExcelUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:20:13.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CashFlow.Infraestructure",
-              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj",
-              "RelativeDocumentMoniker": "src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj",
-              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj",
-              "RelativeToolTip": "src\\CashFlow.Infraestructure\\CashFlow.Infraestructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-27T01:24:11.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterExpenseValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAApAAAA",
+              "Title": "PaymentTypeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Domain\\Extensions\\PaymentTypeExtensions.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Extensions\\PaymentTypeExtensions.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Domain\\Extensions\\PaymentTypeExtensions.cs",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Extensions\\PaymentTypeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:15:30.383Z",
+              "WhenOpened": "2024-08-01T23:18:39.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RequestRegisterExpenseJsonBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\tests\\CommonTestsUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "RelativeDocumentMoniker": "tests\\CommonTestsUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\tests\\CommonTestsUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "RelativeToolTip": "tests\\CommonTestsUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Enums\\PaymentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:15:12.826Z",
+              "WhenOpened": "2024-08-01T23:16:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateExpensesReportPdfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:47:47.777Z",
               "EditorCaption": ""
             }
           ]
