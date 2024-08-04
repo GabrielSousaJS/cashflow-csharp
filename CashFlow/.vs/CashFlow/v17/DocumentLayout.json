@@ -42,8 +42,7 @@
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Excel\\GenerateExpensesReportExcelUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T23:20:13.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T23:20:13.269Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "src\\CashFlow.Domain\\Extensions\\PaymentTypeExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T23:18:39.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T23:18:39.921Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
               "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-04\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Report\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T22:47:47.777Z",
               "EditorCaption": ""
