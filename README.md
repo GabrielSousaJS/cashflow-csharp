@@ -15,6 +15,14 @@ Dentro os pacotes NuGet utilizados, o **AutoMapper** é o responsável pelo mape
 - **Geração de Relatórios**: Capacidade de exportar relatórios detalhados em PDF e Excel, oferencendo uma análise visual e eficaz das despesas.
 - **RESTful API com Documentação Swagger**: Interface documentada que facilita a integração e o teste por pate dos desenvolvedores.
 
+### Construído com
+
+![badge-dot-net]
+![badge-windows]
+![badge-visual-studio]
+![badge-mysql]
+![badge-swagger]
+
 ## Getting started
 
 Para obter uma cópia local funcionando siga esses passos simples.
@@ -41,3 +49,10 @@ git clone https://github.com/GabrielSousaJS/cashflow-csharp.git
 
 <!-- Images -->
 [hero-image]: CashFlow/images/heroimage.png
+
+<!-- Badges -->
+[badge-dot-net]: https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge
+[badge-windows]: https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge
+[badge-visual-studio]: https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge
+[badge-mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge
+[badge-swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge
