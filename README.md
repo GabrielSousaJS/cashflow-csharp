@@ -12,3 +12,24 @@ Dentro os pacotes NuGet utilizados, o **AutoMapper** é o responsável pelo mape
 - **Teste de Unidade**: Teste abrangentes com FluentAssetions para garantir a funcionalidade e a qualidade.
 - **Geração de Relatórios**: Capacidade de exportar relatórios detalhados em PDF e Excel, oferencendo uma análise visual e eficaz das despesas.
 - **RESTful API com Documentação Swagger**: Interface documentada que facilita a integração e o teste por pate dos desenvolvedores.
+
+## Getting started
+
+Para obter uma cópia local funcionando siga esses passos simples.
+
+### Requisitos
+
+* Visual Studio versão 2022 ou Visual Studio Code
+* Windows 10+ ou Linux/MacOS com o [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instalado
+* MySql Server
+
+### Instalação
+
+1. Clone o repositório:
+
+```sh
+git clone https://github.com/GabrielSousaJS/cashflow-csharp.git
+ ```
+
+2. Preencha as informações no arquivo `appsettings.Development.json`.
+3. Execute a API e aproveite o seu teste.
