@@ -1,4 +1,4 @@
-using CashFlow.Domain.Repositories.Expenses;
+using CashFlow.Domain.Repositories;
 
 namespace CashFlow.Infraestructure.DataAccess;
 

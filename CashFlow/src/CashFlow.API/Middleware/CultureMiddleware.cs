@@ -19,8 +19,8 @@ public class CultureMiddleware
 
         var cultureInfo = new CultureInfo("en");
 
-        if (string.IsNullOrWhiteSpace(requestedCulture) == false
-            && supportedCultures.Exists(language => language.Equals(requestedCulture)))
+        if (!string.IsNullOrWhiteSpace(requestedCulture) &&
+            supportedCultures.Exists(language => language.Equals(new CultureInfo(requestedCulture))))
         {
             cultureInfo = new CultureInfo(requestedCulture);
         }
